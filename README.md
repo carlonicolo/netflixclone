@@ -1,3 +1,3 @@
-# Netflix page clone
+# Netflix interface
 
-Simple design clone of Netflix app using HTML, CSS, Javascript
+Simple design clone of Netflix app interface using HTML, CSS, Javascript
